@@ -118,3 +118,9 @@ form input.operator
 {
 	color:#33ffd8;
 }
+
+08/10/2024
+1).Threads in java programming
+Threads can be implemented by two ways those are 
+a).by extending the thread class.
+b).by implementing runnable interface
